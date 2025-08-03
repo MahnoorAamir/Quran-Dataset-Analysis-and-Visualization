@@ -1,6 +1,6 @@
 # 📘 Quran Dataset Analysis and Visualization
 
-This repository contains a complete analysis and visualization of a Quran dataset, as part of a data science assignment. The objective is to enhance skills in data preprocessing, exploratory data analysis (EDA), and visualization to draw meaningful insights from textual and structural data related to the Quran.
+This repository contains a complete analysis and visualization of a Quran dataset. The objective is to enhance skills in data preprocessing, exploratory data analysis (EDA), and visualization to draw meaningful insights from textual and structural data related to the Quran.
 
 
 
